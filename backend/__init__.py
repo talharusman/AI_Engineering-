@@ -1,0 +1,1 @@
+﻿"""Backend package for the Rubik's Cube Race application."""
